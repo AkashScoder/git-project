@@ -1,2 +1,3 @@
 Hi my name is Akash and Iam working on building an E-commerce website.
 The website is build using ASP.net core MVC framework using entity framework to connect the database.
+I have included web api and stripe payment into this project
